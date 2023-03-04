@@ -1,5 +1,5 @@
 ### Oie 👋 Eu sou o Carlos 
 
-- 🔭 Desenvolvedor Back-End
-- 🌱 Estudando MySQL
+- 🔭 Desenvolvedor Júnior Back-End
+- 🌱 Estudando estrutura de banco de dados SQL
 

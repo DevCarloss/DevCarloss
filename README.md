@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Oiie eu sou Carlos<br>Desenvolvedor de Software Júnior<br>
+# Oiie eu sou Carlos<br>Desenvolvedor de Software Junior<br>
 
 
 ## 🌐 Socials:

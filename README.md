@@ -1,7 +1,3 @@
-# 💫 About Me:
-# Oiie eu sou Carlos<br>Estudante de TI<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-silva-848904251)
 
